@@ -1,0 +1,10 @@
+streamlit==1.53.1
+tensorflow==2.20.0
+keras==3.13.1
+numpy
+pandas
+pillow
+scikit-learn
+opencv-python
+python-dotenv
+google-genai
